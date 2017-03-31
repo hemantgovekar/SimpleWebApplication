@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Web Application</title>
+	<meta charset="utf-8" />
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/script.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/html5shiv.js"></script>
+    <script src="Scripts/html5shiv-printshiv.js"></script>
+</head>
+<body ng-app="myApp" class="container">
+    <input type="number" name="name" placeholder="type a number " value="" />
+    <div ng-controller="MainController">
+        {{error}}
+        <table class="table table-border table-stripped">
+            <tr>
+                <td>Employee Id</td>
+                <td>Employee Name</td>
+            </tr>
+            <tr ng-repeat="employee in employees">
+                <td>{{employee.Id}}</td>
+                <td>{{employee.EName}}</td>
+            </tr>
+        </table>
+
+    </div>
+
+</body>
+</html>

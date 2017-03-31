@@ -1,0 +1,10 @@
+F:\SimpleWebApplication\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+F:\SimpleWebApplication\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+F:\SimpleWebApplication\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+F:\SimpleWebApplication\DataAccessLibrary\bin\Debug\EntityFramework.dll
+F:\SimpleWebApplication\DataAccessLibrary\bin\Debug\EntityFramework.SqlServer.dll
+F:\SimpleWebApplication\DataAccessLibrary\bin\Debug\EntityFramework.xml
+F:\SimpleWebApplication\DataAccessLibrary\bin\Debug\EntityFramework.SqlServer.xml
+F:\SimpleWebApplication\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+F:\SimpleWebApplication\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+F:\SimpleWebApplication\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
